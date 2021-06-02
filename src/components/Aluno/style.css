@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+body{
+    background-color: #FFF;
+}
+.card {
+    box-sizing: border-box;
+    width: 40%;
+    background-color: #6C757D;
+    font-family: 'Source Code Pro', monospace;
+    color: #E9ECEF;
+    box-shadow: 5px 5px 0 #DEE2E6;
+    margin-bottom: 15px;
+    margin-left: 30%;
+    text-align: center;
+}
+
+button {
+    background-color: #343A40
+    ;
+    padding: 5px;
+    margin-bottom: 8px;
+    box-shadow: 2px 2px 0 #DEE2E6;
+    color: #E9ECEF;
+    cursor: grabbing;
+    transition: transform 100ms linear;
+}
+
+button:hover {
+    transform: scale(1.10);
+    background-color: #ADB5BD;
+}

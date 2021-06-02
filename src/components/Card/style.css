@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+
+.Card {
+    box-sizing: border-box;
+    width: 40%;
+    font-family: 'Source Code Pro', monospace;
+    color: #FFF;
+    box-shadow: 5px 5px 0 #DEE2E6;
+    margin-bottom: 15px;
+    margin-left: 30%;
+    text-align: center;
+}

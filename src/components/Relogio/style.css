@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+.rel {
+    background-color: #6C757D;
+    margin: 0 25%;
+    padding: 3px 5px;
+    font-family: 'Source Code Pro', monospace;
+    color: #E9ECEF;
+    box-shadow: -5px 5px 0 #DEE2E6;
+    text-align: center;
+}
